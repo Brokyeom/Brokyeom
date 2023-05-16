@@ -2,7 +2,7 @@
 
 |활동|기간|내용|
 |-----|---|---|
-|<a href="https://sopt-operation.vercel.app/">SOPT Web Admin</a>|23.03 ~ | Web Frontend Developer |
+|<a href="https://sopt-operation.vercel.app/">SOPT Web Admin</a>|23.03 ~ | 임원진용 web admin을 통해 SOPT 활동을 더욱 쉽게 관리, 서비스 중.|
 |<a href="http://sopt.org/wp/](https://playground.sopt.org/makers">sopt makers 2기</a>|23.02 ~ 23.07 | 운영 프로덕트 팀 Web Frontend Developer |
 |<a href="https://with-picme.com/">Pic.me</a>|22.12.11 ~ |  빠르게 골라보는 나의 사진, 뭐 올릴지 고민 될 땐? 픽미! , 2차 릴리즈 완료 |
 |<a href="http://sopt.org/wp/">대학생 연합 IT벤처 창업 동아리 SOPT 31기</a>|22.09 ~ 23.01| 31기 WEB파트 OB 수료 - 잼민어 번역기, Pic.me Web Frontend Developer |

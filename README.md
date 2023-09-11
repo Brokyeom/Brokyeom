@@ -2,11 +2,8 @@
 
 |활동|기간|내용|
 |-----|---|---|
-|<a href="https://sopt-operation.vercel.app/">SOPT Web Admin</a>|23.03 ~ | 임원진용 web admin을 통해 SOPT 활동을 더욱 쉽게 관리, 서비스 중.|
-|<a href="https://playground.sopt.org/makers">sopt makers 2기</a>|23.02 ~ 23.07 | 운영 프로덕트 팀 Web Frontend Developer |
-|<a href="https://with-picme.com/">Pic.me</a>|22.12.11 ~ |  빠르게 골라보는 나의 사진, 뭐 올릴지 고민 될 땐? 픽미! Web Frontend Developer |
+|<a href="https://playground.sopt.org/makers">sopt makers</a>|23.02 ~ | 운영 프로덕트 팀 Web Frontend Developer |
 |<a href="http://sopt.org/wp/">대학생 연합 IT벤처 창업 동아리 SOPT 31기</a>|22.09 ~ 23.01| 31기 WEB파트 OB 수료.
-|<a href="https://www.with-nori.com/">nori</a>|22.07 ~ 08 | 다양한 장난감 정보를 한눈에! 우리 아이 장난감 대여 비교 플랫폼, nori Web Frontend Developer
 |<a href="http://sopt.org/wp/">대학생 연합 IT벤처 창업 동아리 SOPT 30기</a>|22.03 ~ 07| 30기 WEB파트 YB 수료.
 <br>
 

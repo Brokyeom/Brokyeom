@@ -2,7 +2,7 @@
 
 |활동|기간|내용|
 |-----|---|---|
-|<a href="https://playground.sopt.org/makers">sopt makers</a>|23.02 ~ | 운영 프로덕트 팀 Web Frontend Developer |
+|<a href="https://makers.sopt.org/">sopt makers</a>|23.02 ~ | 운영 프로덕트 팀 Web Frontend Developer |
 |<a href="http://sopt.org/wp/">대학생 연합 IT벤처 창업 동아리 SOPT 31기</a>|22.09 ~ 23.01| 31기 WEB파트 OB 수료.
 |<a href="http://sopt.org/wp/">대학생 연합 IT벤처 창업 동아리 SOPT 30기</a>|22.03 ~ 07| 30기 WEB파트 YB 수료.
 <br>

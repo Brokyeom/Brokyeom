@@ -3,8 +3,8 @@
 - <a href='https://github.com/sopt-makers'>SOPT makers</a> **운영 프로덕트 팀 FE개발자** (2023.02 ~ 2024.01)
 - 대학생 IT 벤처창업 동아리 <a href='https://www.sopt.org/'>SOPT</a> 30기 31기 웹파트 수료 (2022.03 ~ 2023.01)
 ## Career
-- **TGSociety(운전선생)**
-   - 운전학원 예약 플랫폼 <a href='https://drivingteacher.co.kr'>‘운전선생’</a> 서비스 개발, 디자인 시스템 구축. (2024.01 ~ 2024.05)
+- **TGSociety(운전선생)** (2024.01 ~ 2024.05)
+   - 운전학원 예약 플랫폼 <a href='https://drivingteacher.co.kr'>‘운전선생’</a> 서비스 개발, 디자인 시스템 구축.
 ## Projects
 - **makers design system** (2024.03 ~ 현재) ( <a href='https://github.com/sopt-makers/makers-frontend'>github</a> / <a href='https://www.npmjs.com/search?q=%40sopt-makers'>npm</a> )
    - 디자인 시스템 컴포넌트 개발.

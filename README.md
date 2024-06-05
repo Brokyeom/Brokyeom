@@ -22,5 +22,3 @@
    - 프론트엔드 개발.
 ## Contribute
 - **Next.js 공식문서 한글화 작업** 참여 (<a href='https://github.com/Nextjs-kr/Nextjs.kr/pull/156'>PR</a>)
-## Docs
-<a href="https://hyeongkyeom-kim.notion.site/14bf2f1361364b1c873768896b757148">resume</a> / <a href="https://hyeongkyeom-kim.notion.site/57aa21bcdda84933908dd667839ed049?pvs=74">portfolio</a>

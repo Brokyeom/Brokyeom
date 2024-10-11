@@ -1,7 +1,7 @@
 ## Work Experience
 - **Viva Republica(Toss)** UX Engineer Assistant (2024.06 ~ 2024.10)
 - **TGSociety(운전선생)** Frontend Developer (2024.01 ~ 2024.05)
- ## Experience
+ ## Activities
 - <a href='https://github.com/sopt-makers'>SOPT makers</a> **플랫폼 팀 FE개발자, FE Chapter Lead** (2024.01 ~ 현재)
 - <a href='https://github.com/sopt-makers'>SOPT makers</a> **운영 프로덕트 팀 FE개발자** (2023.02 ~ 2024.01)
 - 대학생 IT 벤처창업 동아리 <a href='https://www.sopt.org/'>SOPT</a> 30기 31기 웹파트 수료 (2022.03 ~ 2023.01)

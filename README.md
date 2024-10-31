@@ -13,5 +13,3 @@
 - <a href='https://github.com/sopt-makers'>SOPT makers</a> **플랫폼 팀 FE개발자, FE Chapter Lead** (2024.01 ~ 현재)
 - <a href='https://github.com/sopt-makers'>SOPT makers</a> **운영 프로덕트 팀 FE개발자** (2023.02 ~ 2024.01)
 - 대학생 IT 벤처창업 동아리 <a href='https://www.sopt.org/'>SOPT</a> 30기 31기 웹파트 수료 (2022.03 ~ 2023.01)
-## Contribute
-- **Next.js 공식문서 한글화 작업** 참여 (<a href='https://github.com/Nextjs-kr/Nextjs.kr/pull/156'>PR</a>)

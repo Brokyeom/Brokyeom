@@ -9,7 +9,13 @@
 
 - **Pic.me!** (2022.12 ~ 2023.08)
 - **nori** (2022.07 ~ 2022.08)
- ## Activities
+
+
+## Contributions
+- [pmndrs/jotai](https://github.com/pmndrs/jotai/pull/2798)
+- [radix-ui/primitives](https://github.com/radix-ui/primitives/pull/3250)
+
+## Activities
 - <a href='https://github.com/sopt-makers'>SOPT makers</a> **플랫폼 팀 FE개발자, FE Chapter Lead** (2024.01 ~ 현재)
 - <a href='https://github.com/sopt-makers'>SOPT makers</a> **운영 프로덕트 팀 FE개발자** (2023.02 ~ 2024.01)
 - 대학생 IT 벤처창업 동아리 <a href='https://www.sopt.org/'>SOPT</a> 30기 31기 웹파트 수료 (2022.03 ~ 2023.01)

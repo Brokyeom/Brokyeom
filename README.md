@@ -1,4 +1,5 @@
 ## Work Experience
+- **Splab(Umoh)** Frontend Engineer (20205.03 ~ )
 - **Viva Republica(Toss)** UX Engineer Assistant (2024.06 ~ 2024.10)
 - **TGSociety(운전선생)** Frontend Developer (2024.01 ~ 2024.05)
 ## Projects

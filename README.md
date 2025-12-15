@@ -1,7 +1,6 @@
 ## Work Experience
 - **Splab(Umoh)** Frontend Engineer (2025.03 ~ 2025.11)
 - **Viva Republica(Toss)** UX Engineer Assistant (2024.06 ~ 2024.10)
-- **TGSociety(운전선생)** Frontend Developer (2024.01 ~ 2024.05)
 ## Projects
 - **makers design system** (Maintainer, 2024.03 ~ 2025.02) ( <a href='https://github.com/sopt-makers/makers-frontend'>github</a> / <a href='https://www.npmjs.com/search?q=%40sopt-makers'>npm</a> )
 - **SOPT web admin** (Maintainer, 2023.03 ~ 2025.02) ( <a href='https://github.com/sopt-makers/sopt-operation-frontend'>github</a> )
